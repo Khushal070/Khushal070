@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Khushal Trivedi</h1>
-<h3 align="center">A passionate AI/ML Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://j.gifs.com/YE6OJA.gif"> 
 
@@ -9,9 +8,9 @@
 
 - 💬 Ask me about **ML Algorithms, Data Preprocessing, Model evaluation and Selection, Programming and Implementation**
 
-- 📫 How to reach me **khushal.t@ahduni.edu.in**
+- 📫 How to reach me **khushaltrvd07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vqTbQvJLsOj3VyIX3UJPm7OC9d6BcWgc/view?usp=sharing](https://drive.google.com/file/d/1fobQlkZHXpXLcorTVZXNxuq3S7ilxL3-/view?usp=drive_link)
+- 📄 Know about my experiences 📄 Know about my experiences: [View here](https://drive.google.com/file/d/105vndA57MUtwJnvlrv1j3z-bsUtGm56i/view?usp=sharing)
 
 - ⚡ Fun fact **I have a great sense of humor and love to make people laugh**
 
