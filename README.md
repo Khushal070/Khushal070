@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushal070&label=Profile%20views&color=0e75b6&style=flat" alt="khushal070" /> </p>
 
-- 🌱 I am currently pursuing my Master's in Computer Science from **Northeastern University** and exploring various areas of Computer Science**
+- 🌱 Exploring various areas of Computer Science
 
 - 💬 Ask me about **ML Algorithms, Computer Vision, Data Preprocessing, Model evaluation and Selection, Programming and Implementation**
 
