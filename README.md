@@ -6,7 +6,7 @@
 
 - 🌱 Exploring various areas of Computer Science
 
-- 💬 Ask me about **ML Algorithms, DL Techniques, Data Preprocessing, Model evaluation and Selection, Programming and Implementation, GenAI, AI Agents**
+- 💬 Ask me about **ML Algorithms, DL Techniques, Data Preprocessing, Model evaluation and Selection, GenAI, AI Agents, Transformers**
 
 - 📫 How to reach me **khushaltrvd07@gmail.com**
 
