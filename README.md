@@ -6,11 +6,11 @@
 
 - 🌱 Exploring various areas of Computer Science
 
-- 💬 Ask me about **ML Algorithms, Computer Vision, Data Preprocessing, Model evaluation and Selection, Programming and Implementation**
+- 💬 Ask me about **ML Algorithms, DL Techniques, Data Preprocessing, Model evaluation and Selection, Programming and Implementation, GenAI, AI Agents**
 
 - 📫 How to reach me **khushaltrvd07@gmail.com**
 
-- 📄 Know about my experiences 📄 Know about my experiences: [View here](https://drive.google.com/file/d/105vndA57MUtwJnvlrv1j3z-bsUtGm56i/view?usp=sharing)
+- 📄 Know about my experiences: [View here](https://drive.google.com/file/d/1QwC6wlZt54S7DGIEjOFh3RSxmwYKqWAF/view?usp=sharing)
 
 - ⚡ Fun fact **I have a great sense of humor and love to make people laugh**
 
