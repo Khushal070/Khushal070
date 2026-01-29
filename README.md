@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **khushaltrvd07@gmail.com**
 
-- 📄 Know about my experiences: [View here](https://drive.google.com/file/d/1QwC6wlZt54S7DGIEjOFh3RSxmwYKqWAF/view?usp=sharing)
+- 📄 Know about my experiences: [View here](https://drive.google.com/file/d/1x0u2fcxVPCk7KdxPwmbOiV61IaRnr78W/view?usp=sharing)
 
 - ⚡ Fun fact **I have a great sense of humor and love to make people laugh**
 
